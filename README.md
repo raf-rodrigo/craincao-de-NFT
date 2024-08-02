@@ -27,4 +27,4 @@ stone cluster duck whip idle moment capital jazz camera fringe planet solar
 - subo novamente a imagem, tenho que criar um Contract e pela rede Polygon preciso pagar US$0,01 ![confirmação](img/imagem-de-observação.png), porém não foi isso que foi mostrado no vídeo de criação de NFT. POis atualmente eu sou obrigado para criar um NFT criar uma Collection.
 
 - A criação de NFT pela Uptick, foi realizada porém sem sucesso também, pois na carteira passada não tinha fundos para criação. Criei a minha carteira porém sem sucesso também, assim ficou o aprendizado não concluído com sucesso.<br>
-Acredito que o curso foi gravado no ano de 2022 e já estamos em 2024 e muitos processos foram modificados. Assim fica a minha experiência e o pedido de atualizar essa parte de craição de NFT na OpenSea com o contrato.# craincao-de-NFT
+Acredito que o curso foi gravado no ano de 2022 e já estamos em 2024 e muitos processos foram modificados. Assim fica a minha experiência e o pedido de atualizar essa parte de craição de NFT na OpenSea com o contrato.
